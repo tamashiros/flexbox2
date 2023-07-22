@@ -1,52 +1,3 @@
-body {
-    margin-left: 40px;
-    margin-right: 40px;
-    
-}
-
-hr{
-    color: red;
-}
-.cabecalho {
-    border: 5px solid red;
-    border-radius: 20px;
-    height: 50px;
-
-}
-
-.logo{
-    padding-left: 10px;
-    padding-top: 5px;
-}
-
-ul{
-    list-style: none;
-    text-decoration: none;
-    display: flex;
-    flex-direction: row;
-    justify-content: end;
-    align-items: center;
-    gap: 100px;
-    
-    background-color: red;
-   
-    border-radius: 10px;
-
-
-}
-
-li{
-    padding-right: 15px;
-    font-size: 10pt;
-    color: black;
-    font-weight: 800;
-    font-style: italic;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
-
-}
-.navegacao{
-
-}
 
 .nome-propriedade{
     font-size: 2em;
@@ -111,3 +62,4 @@ li{
 
 
 }
+
